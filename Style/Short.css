@@ -1,0 +1,39 @@
+.shortii{
+  margin-top:40px;
+  height:300px;
+}
+.text-short{
+  /* font-family: "Roboto", "Arial", sans-serif; */
+  font-family: Roboto,Arial;
+    font-size: 1.5rem;
+    line-height: 2.8rem;
+    font-weight: 700;
+    margin-left: 8px;
+    display: inline;
+    margin-top: -1px;
+    
+}
+.short-pic{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 15px;
+
+}
+
+.picture{
+  width:100%;
+  border-radius: 7px;
+}
+
+.pic-head{
+  font-family: Roboto,Arial;
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-weight:500;
+  line-height: 20px;
+}
+.pic-view{
+  
+  font-size: 14px;
+  color:rgb(96,96,96);
+}
